@@ -1,11 +1,11 @@
 .autor {
-  &__odkaz {
+	&__odkaz {
 		text-decoration: none;
 		color: $doplnkova-barva;
 
-    &:hover,
+		&:hover,
 		&:focus {
-      text-decoration: underline;
+			text-decoration: underline;
 		}
 	}
 
